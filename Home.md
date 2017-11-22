@@ -1,1 +1,1 @@
-This is an **example** wiki page
+This is an **example** wiki page foo
